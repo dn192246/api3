@@ -105,18 +105,4 @@ No necesitas servidor web, solo abre los archivos localmente.
 
 ---
 
-## 🤝 Contribuciones
-
-¿Tienes una mejora en mente? ¡Genial!  
-Puedes abrir un issue o hacer un pull request con tus cambios. Todo aporte es bienvenido.
-
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT.  
-Puedes usarlo, modificarlo y distribuirlo libremente.
-
----
-
 **Autor:** [dn192246](https://github.com/dn192246)
